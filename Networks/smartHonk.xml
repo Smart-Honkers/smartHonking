@@ -1,0 +1,4 @@
+<config>
+<interface hosts="vehicle[*]" towards="vehicle[*]" address="10.0.x.x" netmask="255.255.0.0" />
+<autoroute metric='errorRate'/>
+</config>
